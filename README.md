@@ -9,7 +9,7 @@ ConnectFour
 This was a pair assignment to implement an Artificial Intelligence (AI) concept that utilizes trees. A game-tree determines the best possible move for a given
 game board in a game of Connect Four. 
 
-The algorithm implemented in the minimax algorithm.
+The algorithm implemented is the minimax algorithm.
 
 The AI/game is written in Scala, using the functional programming aspects of the language.
 
